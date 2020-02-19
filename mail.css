@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background: rgb(9, 121, 95);
+    background: linear-gradient( 84deg, rgba(9, 121, 95, 1) 0%, rgba(9, 112, 121, 1) 24%, rgba(163, 0, 227, 1) 97%);
+}
+
+h1 {
+    text-shadow: 3px 3px 3px black;
+    color: white;
+    font-family: 'IBM Plex Serif', serif;
+}
